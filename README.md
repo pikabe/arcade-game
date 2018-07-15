@@ -12,7 +12,7 @@ To download this game,
 
 How to play
 ---
-The aim of the game is to get your avatar to the other end of the board where the water is. Avoid hitting the bugs that are crawling across the screen as this will send you back to the beginning of the board.
+The aim of the game is to move your avatar to the other end of the board where the water is. Avoid hitting the bugs that are crawling across the board as this will send you back to the starting position.
 
 controls:
 Use the arrow key to move your avatar across the board.
