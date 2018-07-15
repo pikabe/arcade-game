@@ -55,17 +55,14 @@ class Player {
     this.y = y;
   }
 
-  update() {
-  }
+  update() {}
 
   render() {
     ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
-
   }
 
   handleInput(key) {
-
-
+    
     if ((key === 'left') && (this.x > -2)) {
       this.x -= 101;
 
