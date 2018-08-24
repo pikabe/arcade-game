@@ -1,16 +1,14 @@
 body {
-    text-align: center;
-    height: 100%;
-    background: linear-gradient(pink, yellow);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+  text-align: center;
+  height: 100%;
+  background: linear-gradient(pink, yellow);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-.resultsPage{
+.resultsPage {
   display: block;
   align-self: center;
   margin: auto;
   width: 50%;
-
-
 }
