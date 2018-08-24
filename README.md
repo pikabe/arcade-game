@@ -1,5 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
+![](images/arcadeGameImage.PNG)
 
 This project was done as a part of the Udacity Front-End Web Developer Nanodegree Program.
 The starter file for this project is located at https://github.com/udacity/frontend-nanodegree-arcade-game .
