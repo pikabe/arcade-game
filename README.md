@@ -4,6 +4,8 @@ frontend-nanodegree-arcade-game
 
 This project was done as a part of the Udacity Front-End Web Developer Nanodegree Program.
 The starter file for this project is located at https://github.com/udacity/frontend-nanodegree-arcade-game .
+To the live version of this click,
+https://pikabe.github.io/arcade-game/ 
 
 Installation
 ---
